@@ -1,0 +1,21 @@
+title: Algorithms 
+description: >
+   Department of Computer Science<br>
+   University of Virginia
+copyright: 
+sass:
+  sass_dir: assets/sass
+url: "https://deternitydx.github.io/uvacs4102"
+facebook_username:
+twitter_username: 
+linkedin_username:  
+instagram_username:
+pinterest_username:
+flickr_username:
+github_username: 
+google_scholar: 
+feed_icon: rss
+email: 
+plugins: [jekyll-paginate]
+paginate_path: "/page/:num/"
+paginate: 5
