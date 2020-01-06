@@ -1,5 +1,5 @@
 ---
-layout: course 
+layout: courseshared 
 title: CS4102 Algorithms - Spring 2020 
 ---
 # CS4102 Algorithms - Spring 2020
