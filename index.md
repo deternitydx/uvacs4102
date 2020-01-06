@@ -16,6 +16,10 @@ between problems
 
 **Syllabus:** Coming Soon 
 
+## Resources
+
+Coming Soon
+
 ## Draft Schedule
 
 We will attempt to keep to this schedule throughout the semester.  As we go through the semester,
