@@ -20,10 +20,14 @@ between problems
 
 Below are resources to help with foundational concepts, including proof techniques and additional practice problems.
 
+Discrete Math
 - [Wikipedia Math Portal](https://en.wikipedia.org/wiki/Portal:Mathematics)
     - [Proof Techiques](https://en.wikipedia.org/wiki/Mathematical_proof)
     - [Discrete Math](https://en.wikipedia.org/wiki/Discrete_mathematics)
     - [Some Proofs on Wikipedia](https://en.wikipedia.org/wiki/List_of_mathematical_proofs)
+- [Velleman, How to Prove It](https://search.lib.virginia.edu/catalog/u4357637)
+
+Algorithms
 - [Wikipedia Algorithms Page](https://en.wikipedia.org/wiki/Algorithm)
 - [Skiena, The Algorithm Design Manual](https://www.amazon.com/dp/1849967202)
 - [Levitin, Algorithmic Puzzles](https://search.lib.virginia.edu/catalog/u7095532)
