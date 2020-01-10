@@ -18,24 +18,24 @@ between problems
 
 ## Resources
 
-Below are resources to help with foundational concepts, including proof techniques and additional practice problems.
+The topics we will cover are difficult to master.  Below are resources to help with foundational concepts, including proof techniques and additional practice problems.
 
 Discrete Math
+- [Lehman, Mathematics for Computer Science](pdfs/mcs.pdf)
+- [Velleman, How to Prove It](https://search.lib.virginia.edu/catalog/u4357637)
 - [Wikipedia Math Portal](https://en.wikipedia.org/wiki/Portal:Mathematics)
     - [Proof Techiques](https://en.wikipedia.org/wiki/Mathematical_proof)
     - [Discrete Math](https://en.wikipedia.org/wiki/Discrete_mathematics)
     - [Some Proofs on Wikipedia](https://en.wikipedia.org/wiki/List_of_mathematical_proofs)
-- [Velleman, How to Prove It](https://search.lib.virginia.edu/catalog/u4357637)
 
 Algorithms
 - [Wikipedia Algorithms Page](https://en.wikipedia.org/wiki/Algorithm)
 - [Skiena, The Algorithm Design Manual](https://www.amazon.com/dp/1849967202)
 - [Levitin, Algorithmic Puzzles](https://search.lib.virginia.edu/catalog/u7095532)
 
-## Draft Schedule
+## Schedule
 
-We will attempt to keep to this schedule throughout the semester.  As we go through the semester,
-We will add homework dates.
+This is a tentative full-semester schedule of topics addressed.  As we go through the semester, we will add homework dates and adjust topics slightly as needed.
 
 | Date    | Topic                                   | Readings             | Homework        |
 | ------- | -------------------------               | -------------------  | --------------- |
@@ -53,14 +53,14 @@ We will add homework dates.
 | Feb 19  | Linear Time Sorting, MSCS               | 6, 8                 |                 |
 | Feb 24  | Dynamic Programming                     | Ch 15                |                 |
 | Feb 26  | Matrix Chain Multiplication             | Ch 15                |                 |
-| Mar 2   | Seam Carving                            | Ch 15                |                 |
+| Mar 2   | Seam Carving, Longest Common Subsequence| Ch 15                |                 |
 | Mar 4   | **Midterm Exam**                        |                      |                 |
 | Mar 9   | *Spring Break*                          |                      |                 |
 | Mar 11  | *Spring Break*                          |                      |                 |
 | Mar 16  | Exam Review, Longest Common Subsequence | -                    |                 |
 | Mar 18  | Gerrymandering                          | Ch 16                |                 |
 | Mar 23  | Greedy Algorithms, Interval Scheduling  | Ch 16                |                 |
-| Mar 25  | Greedy Algoirthms, Huffman Coding       | -                    |                 |
+| Mar 25  | Greedy Algorithms, Huffman Coding       | -                    |                 |
 | Mar 30  | Belady Cache Replacement                |                      |                 |
 | Apr 1   | Graphs, Minimum Spanning Trees          | Ch 23                |                 |
 | Apr 6   | Dijkstra's Algorithm                    | Ch 24                |                 |
