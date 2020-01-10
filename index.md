@@ -22,6 +22,7 @@ The topics we will cover are difficult to master.  Below are resources to help w
 
 Discrete Math
 - [Lehman, Mathematics for Computer Science](pdfs/mcs.pdf)
+    - For tips, see Section 1.9
 - [Velleman, How to Prove It](https://search.lib.virginia.edu/catalog/u4357637)
 - [Wikipedia Math Portal](https://en.wikipedia.org/wiki/Portal:Mathematics)
     - [Proof Techiques](https://en.wikipedia.org/wiki/Mathematical_proof)
