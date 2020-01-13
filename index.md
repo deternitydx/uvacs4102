@@ -14,7 +14,7 @@ between problems
 
 **Availability:** It is important to us to be available to our students, and to address their concerns. If you cannot meet with either of us during our office hours, e-mail us and we will find the time to meet. That being said, like everybody else we are quite busy, so it may take a day or more to find a time to meet. And if you have any comments on the course---what is working, what is not working, what can be done better, etc.---we are very interested in hearing about them.  Please send Prof. Hott, Prof. Horton, or one of the TAs an e-mail or post privately on Piazza to the instructors. We tend to get bogged down by e-mail as the semester progresses, so seeing us in person (right after lecture, during office hours, etc.) is often a good way to get a more immediate response.
 
-**Syllabus:** Coming Soon 
+**Syllabus:** [Download](pdfs/syllabus.pdf) 
 
 ## Resources
 
