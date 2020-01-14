@@ -40,7 +40,7 @@ This is a tentative full-semester schedule of topics addressed.  As we go throug
 
 | Date    | Topic                                   | Readings             | Homework        |
 | ------- | -------------------------               | -------------------  | --------------- |
-| Jan 13  | Introduction                            | -                    | HW0 out         |
+| Jan 13  | Introduction - [Horton](lectures/horton/l1.pdf), [Hott](lectures/robbie/l1.pdf)                           | -                    | HW0 out         |
 | Jan 15  | Divide and Conquer                      | Ch 3, 4              |                 |
 | Jan 20  | *MLK Day - No class*                    |                      |                 |
 | Jan 22  | Karatsuba, Tree Method                  | Ch 4                 |                 |
