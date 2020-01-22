@@ -38,37 +38,37 @@ Algorithms
 
 This is a tentative full-semester schedule of topics addressed.  As we go through the semester, we will add homework dates and adjust topics slightly as needed.
 
-| Date    | Topic                                   | Readings             | Homework        |
-| ------- | -------------------------               | -------------------  | --------------- |
-| Jan 13  | Introduction - [Horton](lectures/horton/l1.pdf), [Hott](lectures/robbie/l1.pdf)                           | -                    | HW0 out         |
-| Jan 15  | Divide and Conquer - [Horton](lectures/horton/l2.pdf), [Hott](lectures/robbie/l2.pdf)                     | Ch 3, 4              |                 |
-| Jan 20  | *MLK Day - No class*                    |                      |                 |
-| Jan 22  | Karatsuba, Tree Method                  | Ch 4                 |                 |
-| Jan 27  | Guess and Check                         | Ch 4                 |                 |
-| Jan 29  | Master Theorem, Substitution            |                      |                 |
-| Feb 3   | Closest Pair of Points                  | Ch 33                |                 |
-| Feb 5   | Strassen's Algorithm, Quicksort         | Ch 4, 7              |                 |
-| Feb 10  | Quickselect, Median of Medians          | Ch 9                 |                 |
-| Feb 12  | Randomized Quicksort, Sorting           | Ch 7, 8              |                 |
-| Feb 17  | Sorting Algorithms, Linear Time Sorting | Intro II, Ch 4, 6, 8 |                 |
-| Feb 19  | Linear Time Sorting, MSCS               | 6, 8                 |                 |
-| Feb 24  | Dynamic Programming                     | Ch 15                |                 |
-| Feb 26  | Matrix Chain Multiplication             | Ch 15                |                 |
-| Mar 2   | Seam Carving, Longest Common Subsequence| Ch 15                |                 |
-| Mar 4   | **Midterm Exam**                        |                      |                 |
-| Mar 9   | *Spring Break*                          |                      |                 |
-| Mar 11  | *Spring Break*                          |                      |                 |
-| Mar 16  | Exam Review, Longest Common Subsequence | -                    |                 |
-| Mar 18  | Gerrymandering                          | Ch 16                |                 |
-| Mar 23  | Greedy Algorithms, Interval Scheduling  | Ch 16                |                 |
-| Mar 25  | Greedy Algorithms, Huffman Coding       | -                    |                 |
-| Mar 30  | Belady Cache Replacement                |                      |                 |
-| Apr 1   | Graphs, Minimum Spanning Trees          | Ch 23                |                 |
-| Apr 6   | Dijkstra's Algorithm                    | Ch 24                |                 |
-| Apr 8   | Bellman-Ford, Floyd-Warshall            |                      |                 |
-| Apr 13  | Max Flow, Min Cut                       | Ch 26                |                 |
-| Apr 15  | Bipartite Matching, Reductions          |                      |                 |
-| Apr 20  | Reductions                              | Ch 34                |                 |
-| Apr 22  | NP-Completeness                         |                      |                 |
-| Apr 27  | NP-Completeness, Finale                 |                      |                 |
-| May 2   | **Final Exam, 7-10pm**                  |                      |                 |
+| Date    | Topic                     | Slides/Notes    | Readings             | Homework        |
+| ------- | ------------------------- |--------------   | -------------------  | --------------- |
+| Jan 13  | Introduction | [Horton](lectures/horton/l1.pdf), [Hott](lectures/robbie/l1.pdf)                           | -                    | HW0 out         |
+| Jan 15  | Divide and Conquer | [Horton](lectures/horton/l2.pdf), [Hott](lectures/robbie/l2.pdf)                     | Ch 3, 4              |                 |
+| Jan 20  | *MLK Day - No class*                 | Horton, [Hott](lectures/robbie/l3.pdf), [math](lectures/day3-proofs.pdf)   |                      |                 |
+| Jan 22  | Karatsuba, Tree Method                 | | Ch 4                 |                 |
+| Jan 27  | Guess and Check                         | | Ch 4                 |                 |
+| Jan 29  | Master Theorem, Substitution            | |                      |                 |
+| Feb 3   | Closest Pair of Points                  | | Ch 33                |                 |
+| Feb 5   | Strassen's Algorithm, Quicksort         | | Ch 4, 7              |                 |
+| Feb 10  | Quickselect, Median of Medians          | | Ch 9                 |                 |
+| Feb 12  | Randomized Quicksort, Sorting           | | Ch 7, 8              |                 |
+| Feb 17  | Sorting Algorithms, Linear Time Sorting | | Intro II, Ch 4, 6, 8 |                 |
+| Feb 19  | Linear Time Sorting, MSCS               | | 6, 8                 |                 |
+| Feb 24  | Dynamic Programming                     | | Ch 15                |                 |
+| Feb 26  | Matrix Chain Multiplication             | | Ch 15                |                 |
+| Mar 2   | Seam Carving, Longest Common Subsequence| | Ch 15                |                 |
+| Mar 4   | **Midterm Exam**                        | |                      |                 |
+| Mar 9   | *Spring Break*                          | |                      |                 |
+| Mar 11  | *Spring Break*                          | |                      |                 |
+| Mar 16  | Exam Review, Longest Common Subsequence | | -                    |                 |
+| Mar 18  | Gerrymandering                          | | Ch 16                |                 |
+| Mar 23  | Greedy Algorithms, Interval Scheduling  | | Ch 16                |                 |
+| Mar 25  | Greedy Algorithms, Huffman Coding       | | -                    |                 |
+| Mar 30  | Belady Cache Replacement                | |                      |                 |
+| Apr 1   | Graphs, Minimum Spanning Trees          | | Ch 23                |                 |
+| Apr 6   | Dijkstra's Algorithm                    | | Ch 24                |                 |
+| Apr 8   | Bellman-Ford, Floyd-Warshall            | |                      |                 |
+| Apr 13  | Max Flow, Min Cut                       | | Ch 26                |                 |
+| Apr 15  | Bipartite Matching, Reductions          | |                      |                 |
+| Apr 20  | Reductions                              | | Ch 34                |                 |
+| Apr 22  | NP-Completeness                         | |                      |                 |
+| Apr 27  | NP-Completeness, Finale                 | |                      |                 |
+| May 2   | **Final Exam, 7-10pm**                  | |                      |                 |
