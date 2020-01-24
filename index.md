@@ -20,6 +20,9 @@ between problems
 
 The topics we will cover are difficult to master.  Below are resources to help with foundational concepts, including proof techniques and additional practice problems.
 
+Related Resources
+- [Logarithm Rules](https://en.wikipedia.org/wiki/List_of_logarithmic_identities)
+
 Discrete Math
 - [Lehman, Mathematics for Computer Science](pdfs/mcs.pdf)
     - For tips, see Section 1.9
