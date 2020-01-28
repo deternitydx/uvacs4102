@@ -47,7 +47,7 @@ This is a tentative full-semester schedule of topics addressed.  As we go throug
 | Jan 15  | Divide and Conquer | [Horton](lectures/horton/l2.pdf), [Hott](lectures/robbie/l2.pdf)                     | Ch 3, 4              |                 |
 | Jan 20  | *MLK Day - No class*                 |  |                      |                 |
 | Jan 22  | Karatsuba, Tree Method                 | Horton, [Hott](lectures/robbie/l3.pdf), [math](lectures/day3-proofs.pdf) | Ch 4                 |                 |
-| Jan 27  | Guess and Check                         | | Ch 4                 |                 |
+| Jan 27  | Guess and Check                         | Horton, [Hott](lectures/robbie/l4.pdf), [math](lectures/day4-proofs.pdf) | Ch 4                 |                 |
 | Jan 29  | Master Theorem, Substitution            | |                      |                 |
 | Feb 3   | Closest Pair of Points                  | | Ch 33                |                 |
 | Feb 5   | Strassen's Algorithm, Quicksort         | | Ch 4, 7              |                 |
