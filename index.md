@@ -31,8 +31,8 @@ This is a tentative full-semester schedule of topics addressed.  As we go throug
 | Jan 13  | Introduction | [Horton](lectures/horton/l1.pdf), [Hott](lectures/robbie/l1.pdf)                           | -                    | HW0 out         |
 | Jan 15  | Divide and Conquer | [Horton](lectures/horton/l2.pdf), [Hott](lectures/robbie/l2.pdf)                     | Ch 3, 4              |                 |
 | Jan 20  | *MLK Day - No class*                 |  |                      |                 |
-| Jan 22  | Karatsuba, Tree Method                 | [Horton](lectures/horton/cs4102_L3_horton.pdf.pdf}, [Hott](lectures/robbie/l3.pdf), [math](lectures/day3-proofs.pdf) | Ch 4                 |                 |
-| Jan 27  | Guess and Check                         |  [Horton](lectures/horton/cs4102_L4_horton.pdf.pdf}, [Hott](lectures/robbie/l4.pdf), [math](lectures/day4-proofs.pdf) | Ch 4                 |                 |
+| Jan 22  | Karatsuba, Tree Method                 | [Horton]{lectures/horton/cs4102_L3_horton.pdf}, [Hott](lectures/robbie/l3.pdf), [math](lectures/day3-proofs.pdf) | Ch 4                 |                 |
+| Jan 27  | Guess and Check                         |  [Horton]{lectures/horton/cs4102_L4_horton.pdf}, [Hott](lectures/robbie/l4.pdf), [math](lectures/day4-proofs.pdf) | Ch 4                 |                 |
 | Jan 29  | Master Theorem, Substitution            | |                      |                 |
 | Feb 3   | Closest Pair of Points                  | | Ch 33                |                 |
 | Feb 5   | Strassen's Algorithm, Quicksort         | | Ch 4, 7              |                 |
