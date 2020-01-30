@@ -33,8 +33,8 @@ This is a tentative full-semester schedule of topics addressed.  As we go throug
 | Jan 20  | *MLK Day - No class*                 |  |                      |                 |
 | Jan 22  | Karatsuba, Tree Method                 | [Horton](lectures/horton/cs4102_L3_horton.pdf), [Hott](lectures/robbie/l3.pdf), [math](lectures/day3-proofs.pdf) | Ch 4                 |                 |
 | Jan 27  | Guess and Check                         |  [Horton](lectures/horton/cs4102_L4_horton.pdf), [Hott](lectures/robbie/l4.pdf), [math](lectures/day4-proofs.pdf) | Ch 4                 |                 |
-| Jan 29  | Master Theorem, Substitution            | |                      |                 |
-| Feb 3   | Closest Pair of Points                  | | Ch 33                |                 |
+| Jan 29  | Master Theorem            | Horton, [Hott](lectures/robbie/l5.pdf), [math](lectures/day5-proofs.pdf)  |                      |                 |
+| Feb 3   | Substitution, Closest Pair of Points                  | | Ch 33                |                 |
 | Feb 5   | Strassen's Algorithm, Quicksort         | | Ch 4, 7              |                 |
 | Feb 10  | Quickselect, Median of Medians          | | Ch 9                 |                 |
 | Feb 12  | Randomized Quicksort, Sorting           | | Ch 7, 8              |                 |
