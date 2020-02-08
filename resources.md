@@ -25,6 +25,11 @@ Algorithms
 - [Skiena, The Algorithm Design Manual](https://www.amazon.com/dp/1849967202)
 - [Levitin, Algorithmic Puzzles](https://search.lib.virginia.edu/catalog/u7095532)
 
+Software Development Methods (2110)
+- [Recursion 1](pdfs/31-recursion.pdf)
+- [Recursion 2](pdfs/32-recursion.pdf)
+- [Divide and Conquer](pdfs/33-divide-and-conquer.pdf)
+
 ## Student-Submitted Resources
 
 Other students found these resources helpful.  If you have suggestions for other resources to list here, please send Profs Hott or Horton an email!
