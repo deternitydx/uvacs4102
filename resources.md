@@ -21,6 +21,7 @@ Discrete Math
     - [Some Proofs on Wikipedia](https://en.wikipedia.org/wiki/List_of_mathematical_proofs)
 
 Algorithms
+- [CLRS, Introduction to Algorithms](https://search.lib.virginia.edu/catalog/u6757775)
 - [Wikipedia Algorithms Page](https://en.wikipedia.org/wiki/Algorithm)
 - [Skiena, The Algorithm Design Manual](https://www.amazon.com/dp/1849967202)
 - [Levitin, Algorithmic Puzzles](https://search.lib.virginia.edu/catalog/u7095532)
