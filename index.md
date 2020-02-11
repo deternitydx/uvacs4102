@@ -36,7 +36,7 @@ This is a tentative full-semester schedule of topics addressed.  As we go throug
 | Jan 29  | Master Theorem            |[Horton](lectures/horton/cs4102_L5_Master_horton.pdf), [Hott](lectures/robbie/l5.pdf), [math](lectures/day5-proofs.pdf)  |                      |                 |
 | Feb 3   | Master Theorem, Substitution                  | [Horton](lectures/horton/cs4102-L6-closestpair-horton.pdf), [Brunelle/Hott](lectures/robbie/l6.pdf) | Ch 4                |                 |
 | Feb 5   | Closest Pair of Points, Strassen's Algorithm         | [Horton](lectures/horton/cs4102_L7_closestpair_Strassen_horton.pdf), [Hott](lectures/robbie/l7.pdf) | Ch 4, 33              |                 |
-| Feb 10  | Quicksort, Quickselect, Median of Medians          | | Ch 7, 9                 |                 |
+| Feb 10  | Quicksort, Quickselect, Median of Medians          |[Horton](lectures/horton/L8.pdf) | Ch 7, 9                 |                 |
 | Feb 12  | Randomized Quicksort, Sorting           | | Ch 7, 8              |                 |
 | Feb 17  | Sorting Algorithms, Linear Time Sorting | | Intro II, Ch 4, 6, 8 |                 |
 | Feb 19  | Linear Time Sorting, MSCS               | | 6, 8                 |                 |
