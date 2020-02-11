@@ -35,6 +35,6 @@ Software Development Methods (2110)
 
 Other students found these resources helpful.  If you have suggestions for other resources to list here, please send Profs Hott or Horton an email!
 
-- [Proof by induction | Khan Academy (Youtube Video)](https://www.youtube.com/watch?v=wblW_M_HVQ8)
+- [Proof by induction, Khan Academy (Youtube Video)](https://www.youtube.com/watch?v=wblW_M_HVQ8)
 - [Four Basic Proof Techniques Used in Mathematics (Youtube Video)](https://www.youtube.com/watch?v=V5tUc-J124s)
 
