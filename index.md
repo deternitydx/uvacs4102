@@ -27,7 +27,7 @@ The topics we will cover are difficult to master.  Below are resources to help w
 This is a tentative full-semester schedule of topics addressed.  As we go through the semester, we will add homework dates and adjust topics slightly as needed.
 
 | Date    | Topic                     | Slides/Notes    | Readings             | Homework        |
-||||||
+| ------- | ------ | ----- | ------ | ------- |
 | Jan 13  | Introduction | [Horton](lectures/horton/l1.pdf), [Hott](lectures/robbie/l1.pdf)                           | -                    | HW0 out         |
 | Jan 15  | Divide and Conquer | [Horton](lectures/horton/l2.pdf), [Hott](lectures/robbie/l2.pdf)                     | Ch 3, 4              |                 |
 | Jan 20  | *MLK Day - No class*                 |  |                      |                 |
