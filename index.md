@@ -39,7 +39,7 @@ This is a tentative full-semester schedule of topics addressed.  As we go throug
 | Feb 10  | Quicksort, Quickselect, Median of Medians          |[Horton](lectures/horton/L8.pdf) | Ch 7, 9                 |                 |
 | Feb 12  | Median of Medians, Randomized Quicksort, Sorting   |[Horton](lectures/horton/L9_horton.pdf) | Ch 7, 8              |                 |
 | Feb 17  | Average-case Quicksort, Lower Bounds Sorting |[Horton](lectures/horton/L10.pdf) | Intro II, Ch 4, 6, 8 |                 |
-| Feb 19  | Linear Time Sorting, MSCS               | | 6, 8                 |                 |
+| Feb 19  | Linear Time Sorting, MSCS               |[Horton](lectures/horton/L11.pdf) | 6, 8                 |                 |
 | Feb 24  | Dynamic Programming                     | | Ch 15                |                 |
 | Feb 26  | Matrix Chain Multiplication             | | Ch 15                |                 |
 | Mar 2   | Seam Carving, Longest Common Subsequence| | Ch 15                |                 |
