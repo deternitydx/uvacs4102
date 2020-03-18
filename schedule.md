@@ -2,6 +2,82 @@
 layout: course-shared 
 title: Schedule - CS4102 Algorithms - Spring 2020 
 ---
+
+# Online Schedule
+
+The rest of our semester will be divided into topic sections.  Each topic section will have a set of lecture recordings (a lecture package) to watch and a given watch-by date.
+
+## Dynamic Programming
+
+Review and Gerrymandering - March 23
+| Video Link                 | Slides/Notes | Readings |
+| ----------                 | ------------ | -------- |
+| Exam Review                |              |          |
+| Longest Common Subsequence |              |          |
+| Gerrymandering             |              | Ch 16    |
+
+## Greedy Algorithms
+
+Greedy Algorithms Introduction - March 25
+| Video Link          | Slides/Notes | Readings |
+| ----------          | ------------ | -------- |
+| Greedy Introduction |              | Ch 16    |
+| Interval Scheduling |              | Ch 16    |
+
+
+Huffman Coding - March 30
+| Video Link     | Slides/Notes | Readings |
+| ----------     | ------------ | -------- |
+| Huffman Coding |              | Ch 16    |
+
+
+Belady Cache Replacement - April 1
+| Video Link              | Slides/Notes | Readings |
+| ----------              | ------------ | -------- |
+| Beldy Cache Replacement |              |          |
+
+
+## Graph Algorithms
+
+Graph Introductions - April 6
+| Video Link             | Slides/Notes | Readings |
+| ----------             | ------------ | -------- |
+| Graph Review           |              | Ch 23    |
+| Minimum Spanning Trees |              | Ch 23    |
+
+
+Shortest Paths - April 8
+| Video Link           | Slides/Notes | Readings |
+| ----------           | ------------ | -------- |
+| Dijkstra's Algorithm |              | Ch 24    |
+| Bellman-Ford         |              | Ch 24    |
+| Floyd-Warshall       |              |          |
+
+Max Flow - April 13
+| Video Link         | Slides/Notes | Readings |
+| ----------         | ------------ | -------- |
+| Max Flow / Min Cut |              | Ch 26    |
+
+## Reductions
+
+Introduction - April 15
+| Video Link              | Slides/Notes | Readings |
+| ----------              | ------------ | -------- |
+| Reductions Introduction |              | Ch 34    |
+| Bipartite Matching      |              |          |
+
+Additional Reductions - April 20
+| Video Link | Slides/Notes | Readings |
+| ---------- | ------------ | -------- |
+| Reductions |              |          |
+
+## NP-Completeness
+
+NP-Completeness - April 22
+| Video Link      | Slides/Notes | Readings |
+| ----------      | ------------ | -------- |
+| NP-Completeness |              |          |
+
 # In-Person Schedule
 
 This is a tentative full-semester schedule of topics addressed.  As we go through the semester, we will add homework dates and adjust topics slightly as needed.
@@ -26,80 +102,4 @@ This is a tentative full-semester schedule of topics addressed.  As we go throug
 | Mar 4   | **Midterm Exam**                                 |                                                                                                                         |                      |          |
 | Mar 9   | *Spring Break*                                   |                                                                                                                         |                      |          |
 | Mar 11  | *Spring Break*                                   |                                                                                                                         |                      |          |
-
-
-## Online Schedule
-
-The rest of our semester will be divided into topic sections.  Each topic section will have a set of lecture recordings (a lecture package) to watch and a given watch-by date.
-
-### Dynamic Programming
-
-Review and Gerrymandering - March 23
-| Video Link                 | Slides/Notes | Readings |
-| ----------                 | ------------ | -------- |
-| Exam Review                |              |          |
-| Longest Common Subsequence |              |          |
-| Gerrymandering             |              | Ch 16    |
-
-### Greedy Algorithms
-
-Greedy Algorithms Introduction - March 25
-| Video Link          | Slides/Notes | Readings |
-| ----------          | ------------ | -------- |
-| Greedy Introduction |              | Ch 16    |
-| Interval Scheduling |              | Ch 16    |
-
-
-Huffman Coding - March 30
-| Video Link     | Slides/Notes | Readings |
-| ----------     | ------------ | -------- |
-| Huffman Coding |              | Ch 16    |
-
-
-Belady Cache Replacement - April 1
-| Video Link              | Slides/Notes | Readings |
-| ----------              | ------------ | -------- |
-| Beldy Cache Replacement |              |          |
-
-
-### Graph Algorithms
-
-Graph Introductions - April 6
-| Video Link             | Slides/Notes | Readings |
-| ----------             | ------------ | -------- |
-| Graph Review           |              | Ch 23    |
-| Minimum Spanning Trees |              | Ch 23    |
-
-
-Shortest Paths - April 8
-| Video Link           | Slides/Notes | Readings |
-| ----------           | ------------ | -------- |
-| Dijkstra's Algorithm |              | Ch 24    |
-| Bellman-Ford         |              | Ch 24    |
-| Floyd-Warshall       |              |          |
-
-Max Flow - April 13
-| Video Link         | Slides/Notes | Readings |
-| ----------         | ------------ | -------- |
-| Max Flow / Min Cut |              | Ch 26    |
-
-### Reductions
-
-Introduction - April 15
-| Video Link              | Slides/Notes | Readings |
-| ----------              | ------------ | -------- |
-| Reductions Introduction |              | Ch 34    |
-| Bipartite Matching      |              |          |
-
-Additional Reductions - April 20
-| Video Link | Slides/Notes | Readings |
-| ---------- | ------------ | -------- |
-| Reductions |              |          |
-
-### NP-Completeness
-
-NP-Completeness - April 22
-| Video Link      | Slides/Notes | Readings |
-| ----------      | ------------ | -------- |
-| NP-Completeness |              |          |
 
