@@ -9,29 +9,29 @@ The rest of our semester will be divided into topic sections.  Each topic sectio
 
 ## Dynamic Programming
 
-Review and Gerrymandering - March 23
+March 23 - Review and Gerrymandering
 | Video Link                 | Slides/Notes | Readings |
 | ----------                 | ------------ | -------- |
-| Exam Review                |              |          |
+| [Exam Review](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1824782-3252-4842-b0a0-ab830121301d) - [Algorithm Design](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a219a94f-7e8b-4649-a541-ab8300119751)                |              |          |
 | Longest Common Subsequence |              |          |
 | Gerrymandering             |              | Ch 16    |
 
 ## Greedy Algorithms
 
-Greedy Algorithms Introduction - March 25
+March 25 - Greedy Algorithms Introduction
 | Video Link          | Slides/Notes | Readings |
 | ----------          | ------------ | -------- |
 | Greedy Introduction |              | Ch 16    |
 | Interval Scheduling |              | Ch 16    |
 
 
-Huffman Coding - March 30
+March 30 - Huffman Coding
 | Video Link     | Slides/Notes | Readings |
 | ----------     | ------------ | -------- |
 | Huffman Coding |              | Ch 16    |
 
 
-Belady Cache Replacement - April 1
+April 1 - Belady Cache Replacement
 | Video Link              | Slides/Notes | Readings |
 | ----------              | ------------ | -------- |
 | Beldy Cache Replacement |              |          |
@@ -39,41 +39,41 @@ Belady Cache Replacement - April 1
 
 ## Graph Algorithms
 
-Graph Introductions - April 6
+April 6 - Graph Introductions
 | Video Link             | Slides/Notes | Readings |
 | ----------             | ------------ | -------- |
 | Graph Review           |              | Ch 23    |
 | Minimum Spanning Trees |              | Ch 23    |
 
 
-Shortest Paths - April 8
+April 8 - Shortest Paths
 | Video Link           | Slides/Notes | Readings |
 | ----------           | ------------ | -------- |
 | Dijkstra's Algorithm |              | Ch 24    |
 | Bellman-Ford         |              | Ch 24    |
 | Floyd-Warshall       |              |          |
 
-Max Flow - April 13
+April 13 - Max Flow
 | Video Link         | Slides/Notes | Readings |
 | ----------         | ------------ | -------- |
 | Max Flow / Min Cut |              | Ch 26    |
 
 ## Reductions
 
-Introduction - April 15
+April 15 - Introduction
 | Video Link              | Slides/Notes | Readings |
 | ----------              | ------------ | -------- |
 | Reductions Introduction |              | Ch 34    |
 | Bipartite Matching      |              |          |
 
-Additional Reductions - April 20
+April 20 - Additional Reductions
 | Video Link | Slides/Notes | Readings |
 | ---------- | ------------ | -------- |
 | Reductions |              |          |
 
 ## NP-Completeness
 
-NP-Completeness - April 22
+April 22 - NP-Completeness
 | Video Link      | Slides/Notes | Readings |
 | ----------      | ------------ | -------- |
 | NP-Completeness |              |          |
