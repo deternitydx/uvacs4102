@@ -11,84 +11,64 @@ The rest of our semester will be divided into topic sections.  Each topic sectio
 
 March 23 - Review and Gerrymandering
 
-| Video Link                                                                                                                | Slides/Notes                           | Readings |
-| ----------                                                                                                                | ------------                           | -------- |
-| [Exam Review](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1824782-3252-4842-b0a0-ab830121301d)           |                                        |          |
-| [Exam Algorithm Design](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a219a94f-7e8b-4649-a541-ab8300119751) |                                        |          |
-| Longest Common Subsequence                                                                                                |                                        |          |
-| DP Review                                                                                                                 | [Slides](lectures/l15-review.pdf)      |          |
-| [Gerrymandering](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b613684-720a-4167-a32e-ab7e016ea13f)        | [Slides](lectures/l15-gerrymander.pdf) | Ch 16    |
+- Exam Review - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1824782-3252-4842-b0a0-ab830121301d)
+- Exam Algorithm Design - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a219a94f-7e8b-4649-a541-ab8300119751)
+- Longest Common Subsequence
+- DP Review - [Slides](lectures/l15-review.pdf)
+- Gerrymandering - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b613684-720a-4167-a32e-ab7e016ea13f) - [Slides](lectures/l15-gerrymander.pdf) - Ch 16 
 
 ## Greedy Algorithms
 
 March 25 - Greedy Algorithms Introduction
 
-| Video Link          | Slides/Notes | Readings |
-| ----------          | ------------ | -------- |
-| Greedy Introduction |              | Ch 16    |
-| Interval Scheduling |              | Ch 16    |
+- Greedy Introduction - Ch 16
+- Interval Scheduling - Ch 16
 
 
 March 30 - Huffman Coding
 
-| Video Link     | Slides/Notes | Readings |
-| ----------     | ------------ | -------- |
-| Huffman Coding |              | Ch 16    |
+- Huffman Coding - Ch 16
 
 
 April 1 - Belady Cache Replacement
 
-| Video Link              | Slides/Notes | Readings |
-| ----------              | ------------ | -------- |
-| Beldy Cache Replacement |              |          |
+- Beldy Cache Replacement
 
 
 ## Graph Algorithms
 
 April 6 - Graph Introductions
 
-| Video Link             | Slides/Notes | Readings |
-| ----------             | ------------ | -------- |
-| Graph Review           |              | Ch 23    |
-| Minimum Spanning Trees |              | Ch 23    |
+- Graph Review - Ch 23
+- Minimum Spanning Trees - Ch 23
 
 
 April 8 - Shortest Paths
 
-| Video Link           | Slides/Notes | Readings |
-| ----------           | ------------ | -------- |
-| Dijkstra's Algorithm |              | Ch 24    |
-| Bellman-Ford         |              | Ch 24    |
-| Floyd-Warshall       |              |          |
+- Dijkstra's Algorithm - Ch 24
+- Bellman-Ford - Ch 24
+- Floyd-Warshall
 
 April 13 - Max Flow
 
-| Video Link         | Slides/Notes | Readings |
-| ----------         | ------------ | -------- |
-| Max Flow / Min Cut |              | Ch 26    |
+- Max Flow / Min Cut - Ch 26
 
 ## Reductions
 
 April 15 - Introduction
 
-| Video Link              | Slides/Notes | Readings |
-| ----------              | ------------ | -------- |
-| Reductions Introduction |              | Ch 34    |
-| Bipartite Matching      |              |          |
+- Reductions Introduction - Ch 34
+- Bipartite Matching
 
 April 20 - Additional Reductions
 
-| Video Link | Slides/Notes | Readings |
-| ---------- | ------------ | -------- |
-| Reductions |              |          |
+- Reductions
 
 ## NP-Completeness
 
 April 22 - NP-Completeness
 
-| Video Link      | Slides/Notes | Readings |
-| ----------      | ------------ | -------- |
-| NP-Completeness |              |          |
+- NP-Completeness
 
 # In-Person Schedule
 
