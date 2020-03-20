@@ -10,11 +10,13 @@ The rest of our semester will be divided into topic sections.  Each topic sectio
 ## Dynamic Programming
 
 March 23 - Review and Gerrymandering
-| Video Link                 | Slides/Notes | Readings |
-| ----------                 | ------------ | -------- |
-| [Exam Review](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1824782-3252-4842-b0a0-ab830121301d) - [Algorithm Design](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a219a94f-7e8b-4649-a541-ab8300119751)                |              |          |
-| Longest Common Subsequence |              |          |
-| Gerrymandering             |              | Ch 16    |
+| Video Link                                                                                                                | Slides/Notes                           | Readings |
+| ----------                                                                                                                | ------------                           | -------- |
+| [Exam Review](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1824782-3252-4842-b0a0-ab830121301d)           |                                        |          |
+| [Exam Algorithm Design](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a219a94f-7e8b-4649-a541-ab8300119751) |                                        |          |
+| Longest Common Subsequence                                                                                                |                                        |          |
+| DP Review                                                                                                                 | [Slides](lectures/l15-review.pdf)      |          |
+| [Gerrymandering](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b613684-720a-4167-a32e-ab7e016ea13f)        | [Slides](lectures/l15-gerrymander.pdf) | Ch 16    |
 
 ## Greedy Algorithms
 
