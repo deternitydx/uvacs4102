@@ -10,6 +10,7 @@ We want to continue to encourage collaboration on the homeworks, even if we are 
 
 | Type            | Software                                     | Link                                       |
 | ----            | --------                                     | ----                                       |
+| Whiteboard      | Aggie.io                         | https://aggie.io |
 | Whiteboard      | DeadSimpleWhiteboard                         | http://deadsimplewhiteboard.herokuapp.com/ |
 | Whiteboard      | Microsoft Whiteboard (requires subscription) |                                            |
 | Video Chat      | Zoom                                         |                                            |
