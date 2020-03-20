@@ -10,6 +10,7 @@ The rest of our semester will be divided into topic sections.  Each topic sectio
 ## Dynamic Programming
 
 March 23 - Review and Gerrymandering
+
 | Video Link                                                                                                                | Slides/Notes                           | Readings |
 | ----------                                                                                                                | ------------                           | -------- |
 | [Exam Review](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1824782-3252-4842-b0a0-ab830121301d)           |                                        |          |
@@ -21,6 +22,7 @@ March 23 - Review and Gerrymandering
 ## Greedy Algorithms
 
 March 25 - Greedy Algorithms Introduction
+
 | Video Link          | Slides/Notes | Readings |
 | ----------          | ------------ | -------- |
 | Greedy Introduction |              | Ch 16    |
@@ -28,12 +30,14 @@ March 25 - Greedy Algorithms Introduction
 
 
 March 30 - Huffman Coding
+
 | Video Link     | Slides/Notes | Readings |
 | ----------     | ------------ | -------- |
 | Huffman Coding |              | Ch 16    |
 
 
 April 1 - Belady Cache Replacement
+
 | Video Link              | Slides/Notes | Readings |
 | ----------              | ------------ | -------- |
 | Beldy Cache Replacement |              |          |
@@ -42,6 +46,7 @@ April 1 - Belady Cache Replacement
 ## Graph Algorithms
 
 April 6 - Graph Introductions
+
 | Video Link             | Slides/Notes | Readings |
 | ----------             | ------------ | -------- |
 | Graph Review           |              | Ch 23    |
@@ -49,6 +54,7 @@ April 6 - Graph Introductions
 
 
 April 8 - Shortest Paths
+
 | Video Link           | Slides/Notes | Readings |
 | ----------           | ------------ | -------- |
 | Dijkstra's Algorithm |              | Ch 24    |
@@ -56,6 +62,7 @@ April 8 - Shortest Paths
 | Floyd-Warshall       |              |          |
 
 April 13 - Max Flow
+
 | Video Link         | Slides/Notes | Readings |
 | ----------         | ------------ | -------- |
 | Max Flow / Min Cut |              | Ch 26    |
@@ -63,12 +70,14 @@ April 13 - Max Flow
 ## Reductions
 
 April 15 - Introduction
+
 | Video Link              | Slides/Notes | Readings |
 | ----------              | ------------ | -------- |
 | Reductions Introduction |              | Ch 34    |
 | Bipartite Matching      |              |          |
 
 April 20 - Additional Reductions
+
 | Video Link | Slides/Notes | Readings |
 | ---------- | ------------ | -------- |
 | Reductions |              |          |
@@ -76,6 +85,7 @@ April 20 - Additional Reductions
 ## NP-Completeness
 
 April 22 - NP-Completeness
+
 | Video Link      | Slides/Notes | Readings |
 | ----------      | ------------ | -------- |
 | NP-Completeness |              |          |
