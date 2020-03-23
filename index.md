@@ -16,6 +16,26 @@ between problems
 
 **Syllabus:** [Download](pdfs/syllabus.pdf) 
 
+## This Week
+
+Assignments
+
+- Homework 5 due Friday
+- Homework 6 coming soon
+
+Lectures
+
+- March 23 - Review and Gerrymandering
+    - Exam Review - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1824782-3252-4842-b0a0-ab830121301d)
+    - Exam Algorithm Design - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a219a94f-7e8b-4649-a541-ab8300119751)
+    - Longest Common Subsequence - [Horton's video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fdde7c3d-bad1-4afa-99a4-ab85011e9a24) - [Slides](lectures/horton/cs4102_L14-pt2_LCS_horton.pdf)
+    - DP Review - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=15fec513-9015-4cae-882b-ab87014cc59b) - [Slides](lectures/l15-review.pdf) - [Written Notes](lectures/l15-review-written.pdf)
+    - Gerrymandering - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b613684-720a-4167-a32e-ab7e016ea13f) - [Slides](lectures/l15-gerrymander.pdf) - Ch 16 
+- March 25 - Greedy Algorithms Introduction
+    - Greedy Introduction - Ch 16
+    - Interval Scheduling - Ch 16
+
+
 ## Course Organization
 
 [Schedule](schedule.html) - [Useful Topics Resources](resources.html) - [Useful Collaboration Resources](transition.html)
