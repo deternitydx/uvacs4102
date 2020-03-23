@@ -36,7 +36,25 @@ We will continue to rely on Collab for organization and on Piazza for immediate 
 Office hours will see the largest change in our course.  We very much wanted to maintain the feel of office hours.  Our TAs have been working diligently to help us transition, along with input from other course instructors and TAs.  Right now, our plan is to use Discord (a text and voice chat system) so that TAs can manage both a virtual queue and help groups of students at the same time.  It will require some coordination and a new system, but it appears to be a really great set-up.  We’ll be sending a second “getting started guide” soon.  We may have a reduced schedule for office hours but have more TAs available for each time-slot.
 
 ### Instructor Office Hours
-Professors Hott and Horton will be holding drop-in office hours on Zoom.  Currently, we are planning to be available during our normal lecture times on Mondays and Wednesdays.  We will also occasionally drop in on Discord.  As always, we are also available to schedule meetings if our normal office hour times do not work for you--we understand that every situation is unique at this point.
+Instructor office hours will be at the normal times, and will be done using Zoom.
+
+Horton's office hours:
+
+- Use this URL: https://virginia.zoom.us/my/horton.uva
+- Mon and Wed 1:30-2:30 pm; Tue 2:00-3:00pm; Thu 10:00-10:55am and also 1:00-2:00 pm
+
+Hott's office hours:
+
+- Use this URL: https://virginia.zoom.us/my/jrhott
+- Mon and Wed 11am-12pm; Tue 3:00-4:00pm; and by appointment (send me an email!)
+
+### Normal class-time meetings
+During the normal class meeting times, the professors will use a Zoom meeting to do follow-up about recorded lectures that students have watched. they'll answer questions about the lectures, do examples, etc, in order to help students get more from the recorded lectures. After the first 30 minutes of the section, students may also ask questions about homeworks, but the primary goal for this time is to supplement the recorded lectures.  Students from any section can participate in any session. Join the Zoom meeting on Collab from the Online Meetings tool, or use one of the following Zoom meeting IDs.
+
+- Horton: 3:30-4:45pm on Monday and Wednesday, Zoom ID 765-750-708, https://virginia.zoom.us/j/765750708
+- Hott: 5:00-6:15pm on Monday only, Zoom ID 328-609-633, https://virginia.zoom.us/j/328609633
+- Hott: 2:00-3:15pm on Wednesday only, Zoom ID 135-236-528, https://virginia.zoom.us/j/135236528
+
 
 ### Regrades
 We are still considering the best way to handle regrade requests, and we will restart them by Friday 3/27/2020.
