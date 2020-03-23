@@ -13,7 +13,7 @@ March 23 - Review and Gerrymandering
 
 - Exam Review - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1824782-3252-4842-b0a0-ab830121301d)
 - Exam Algorithm Design - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a219a94f-7e8b-4649-a541-ab8300119751)
-- Longest Common Subsequence
+- Longest Common Subsequence - [Horton's video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fdde7c3d-bad1-4afa-99a4-ab85011e9a24) - [Slides](lectures/horton/cs4102_L14-pt2_LCS_horton.pdf)
 - DP Review - [Slides](lectures/l15-review.pdf)
 - Gerrymandering - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b613684-720a-4167-a32e-ab7e016ea13f) - [Slides](lectures/l15-gerrymander.pdf) - Ch 16 
 
