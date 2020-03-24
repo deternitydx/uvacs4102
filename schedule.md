@@ -17,6 +17,7 @@ March 23 - Review and Gerrymandering
 - DP Review - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=15fec513-9015-4cae-882b-ab87014cc59b) - [Slides](lectures/l15-review.pdf) - [Written Notes](lectures/l15-review-written.pdf)
 - Gerrymandering - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b613684-720a-4167-a32e-ab7e016ea13f) - [Slides](lectures/l15-gerrymander.pdf) - Ch 16
 - Horton's 3/23 3:30 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/_c8qBazM83NJc43CzUDudbNmWanZaaa81nBN-PMEzE7Llmd8AG8j6_lHtNIn3qan) 
+- Hott's 3/23 5 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/4_NkI5fN6HlJQ4nt1njdZJAYFYP7X6a81nRK-6ZYxEpqk2Cq-V2iYHjyWuUYY67v) 
 
 ## Greedy Algorithms
 
