@@ -34,9 +34,11 @@ Lectures
     - Horton's 3/23 3:30 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/_c8qBazM83NJc43CzUDudbNmWanZaaa81nBN-PMEzE7Llmd8AG8j6_lHtNIn3qan) 
     - Hott's 3/23 5 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/4_NkI5fN6HlJQ4nt1njdZJAYFYP7X6a81nRK-6ZYxEpqk2Cq-V2iYHjyWuUYY67v) 
 - March 25 - Greedy Algorithms Introduction
-    - Greedy Introduction - Ch 16
-    - Interval Scheduling - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00506912-5118-45cf-8828-ab89002117bf) - [Slides](lectures/l16-interval-scheduling.pdf) - Ch 16
-    - Hott's 3/23 2 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/x8hVCYvRylNLT6_xyXrAU6AoR5rpaaa8hCUb-PNexRwKZXhxJVMx6mmCEKJTR3lZ) 
+
+- Greedy Introduction - Ch 16 [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a23a2c3e-0e7c-4d79-8ab4-ab8901322a65) - [Slides](lectures/horton/cs4102_L16_intro.pdf)
+- Interval Scheduling - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00506912-5118-45cf-8828-ab89002117bf) - [Slides](lectures/l16-interval-scheduling.pdf) - Ch 16
+- Hott's 3/25 2 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/x8hVCYvRylNLT6_xyXrAU6AoR5rpaaa8hCUb-PNexRwKZXhxJVMx6mmCEKJTR3lZ) 
+- Horton's 3/25 3:30 pm class discussion in Zoom [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=487f41a3-7d28-4d3e-a492-ab8901689505)
 
 
 ## Course Organization
