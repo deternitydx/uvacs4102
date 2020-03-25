@@ -25,6 +25,7 @@ March 25 - Greedy Algorithms Introduction
 
 - Greedy Introduction - Ch 16
 - Interval Scheduling - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00506912-5118-45cf-8828-ab89002117bf) - [Slides](lectures/l16-interval-scheduling.pdf) - Ch 16
+- Hott's 3/23 2 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/x8hVCYvRylNLT6_xyXrAU6AoR5rpaaa8hCUb-PNexRwKZXhxJVMx6mmCEKJTR3lZ) 
 
 
 March 30 - Huffman Coding
