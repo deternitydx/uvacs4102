@@ -62,20 +62,20 @@ Instructor office hours will be at the normal times, and will be done using Zoom
 
 Horton's office hours:
 
-- Use this URL: https://virginia.zoom.us/my/horton.uva
+- Use this URL: [https://virginia.zoom.us/my/horton.uva](https://virginia.zoom.us/my/horton.uva)
 - Mon and Wed 1:30-2:30 pm; Tue 2:00-3:00pm; Thu 10:00-10:55am and also 1:00-2:00 pm
 
 Hott's office hours:
 
-- Use this URL: https://virginia.zoom.us/my/jrhott
+- Use this URL: [https://virginia.zoom.us/my/jrhott](https://virginia.zoom.us/my/jrhott)
 - Mon and Wed 11am-12pm; Tue 3:00-4:00pm; and by appointment (send me an email!)
 
 ### Normal class-time meetings
 During the normal class meeting times, the professors will use a Zoom meeting to do follow-up about recorded lectures that students have watched. they'll answer questions about the lectures, do examples, etc, in order to help students get more from the recorded lectures. After the first 30 minutes of the section, students may also ask questions about homeworks, but the primary goal for this time is to supplement the recorded lectures.  Students from any section can participate in any session. Join the Zoom meeting on Collab from the Online Meetings tool, or use one of the following Zoom meeting IDs.
 
-- Horton: 3:30-4:45pm on Monday and Wednesday, Zoom ID 765-750-708, https://virginia.zoom.us/j/765750708
-- Hott: 5:00-6:15pm on Monday only, Zoom ID 328-609-633, https://virginia.zoom.us/j/328609633
-- Hott: 2:00-3:15pm on Wednesday only, Zoom ID 135-236-528, https://virginia.zoom.us/j/135236528
+- Horton: 3:30-4:45pm on Monday and Wednesday, Zoom ID 765-750-708, [https://virginia.zoom.us/j/765750708](https://virginia.zoom.us/j/765750708)
+- Hott: 5:00-6:15pm on Monday only, Zoom ID 328-609-633, [https://virginia.zoom.us/j/328609633](https://virginia.zoom.us/j/328609633)
+- Hott: 2:00-3:15pm on Wednesday only, Zoom ID 135-236-528, [https://virginia.zoom.us/j/135236528](https://virginia.zoom.us/j/135236528)
 
 
 ### Regrades
