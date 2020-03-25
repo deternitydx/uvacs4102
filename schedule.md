@@ -24,7 +24,7 @@ March 23 - Review and Gerrymandering
 March 25 - Greedy Algorithms Introduction
 
 - Greedy Introduction - Ch 16
-- Interval Scheduling - Ch 16
+- Interval Scheduling - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00506912-5118-45cf-8828-ab89002117bf) - [Slides](lectures/l16-interval-scheduling.pdf) - Ch 16
 
 
 March 30 - Huffman Coding
