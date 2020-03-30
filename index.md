@@ -20,24 +20,14 @@ between problems
 
 Assignments
 
-- Homework 5 due Friday (3/27)
-- Homework 6 coming soon
+- Homework 6 due Sunday 4/5 at 11pm 
 
 Lectures
 
-- March 23 - Review and Gerrymandering
-    - Exam Review - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1824782-3252-4842-b0a0-ab830121301d)
-    - Exam Algorithm Design - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a219a94f-7e8b-4649-a541-ab8300119751)
-    - Longest Common Subsequence - [Horton's video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fdde7c3d-bad1-4afa-99a4-ab85011e9a24) - [Slides](lectures/horton/cs4102_L14-pt2_LCS_horton.pdf)
-    - DP Review - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=15fec513-9015-4cae-882b-ab87014cc59b) - [Slides](lectures/l15-review.pdf) - [Written Notes](lectures/l15-review-written.pdf)
-    - Gerrymandering - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b613684-720a-4167-a32e-ab7e016ea13f) - [Slides](lectures/l15-gerrymander.pdf) - Ch 16 
-    - Horton's 3/23 3:30 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/_c8qBazM83NJc43CzUDudbNmWanZaaa81nBN-PMEzE7Llmd8AG8j6_lHtNIn3qan) 
-    - Hott's 3/23 5 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/4_NkI5fN6HlJQ4nt1njdZJAYFYP7X6a81nRK-6ZYxEpqk2Cq-V2iYHjyWuUYY67v) 
-- March 25 - Greedy Algorithms Introduction
-    - Greedy Introduction - Ch 16 [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a23a2c3e-0e7c-4d79-8ab4-ab8901322a65) - [Slides](lectures/horton/cs4102_L16_intro.pdf)
-    - Interval Scheduling - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00506912-5118-45cf-8828-ab89002117bf) - [Slides](lectures/l16-interval-scheduling.pdf) - Ch 16
-    - Hott's 3/25 2 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/x8hVCYvRylNLT6_xyXrAU6AoR5rpaaa8hCUb-PNexRwKZXhxJVMx6mmCEKJTR3lZ) 
-    - Horton's 3/25 3:30 pm class discussion in Zoom [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=487f41a3-7d28-4d3e-a492-ab8901689505)
+- March 30 - Huffman Coding
+    - Huffman Coding - Ch 16 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b1c8d50-2efe-45bd-abd0-ab8e0047b241) - [Slides](lectures/l17_greedyHuffman.pdf) - [Marked-up Slides](lectures/l17_greedyHuffman_written.pdf)
+- April 1 - Belady Cache Replacement
+    - Beldy Cache Replacement
 
 
 ## Course Organization
