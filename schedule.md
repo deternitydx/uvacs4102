@@ -36,7 +36,8 @@ March 30 - Huffman Coding
 
 April 1 - Belady Cache Replacement
 
-- Beldy Cache Replacement
+- Belady Cache Replacement - Ch 16 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=efcd7af9-f766-4bbd-b02c-ab8f016692f0) - [Slides](lectures/l18_greedyCache.pdf) - [Marked-up Slides](lectures/l18_greedyCache_written.pdf)
+- 
 
 
 ## Graph Algorithms
