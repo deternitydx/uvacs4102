@@ -26,9 +26,11 @@ Lectures
 
 - March 30 - Huffman Coding
     - Huffman Coding - Ch 16 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b1c8d50-2efe-45bd-abd0-ab8e0047b241) - [Slides](lectures/l17_greedyHuffman.pdf) - [Marked-up Slides](lectures/l17_greedyHuffman_written.pdf)
+    - Horton's 3/30 3:30 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/7-JtJJLM2FlORrPpw2Hgd4F4Jr_-eaa8hyAX8_YNxRwUS-7baRH9vUADrFDBTeLd): discussion of pseudo-polynomial time at 00:49:30; discussion of HW6 P1 at 01:02:08.
     - Hott's 3/30 5 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/75JvI-7trntOfKvqwWHVdYozHJ7meaa8gykZrPpfzkyVStTVWt8tX7wVHGzgPx24) 
 - April 1 - Belady Cache Replacement
     - Belady Cache Replacement - Ch 16 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=efcd7af9-f766-4bbd-b02c-ab8f016692f0) - [Slides](lectures/l18_greedyCache.pdf) - [Marked-up Slides](lectures/l18_greedyCache_written.pdf)
+    - Horton's 4/1 3:30 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/9cdwL5DR1iRIQ9bvw2KOBYA_J7vFX6a8gyEZqPMMzUwwN_GV9lxxwpWsnaQMBBJ-): discussed Huffman encoding, how to approach HW6 P2 (starting at 00:15:38)
 
 
 ## Course Organization
