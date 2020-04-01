@@ -32,6 +32,7 @@ March 25 - Greedy Algorithms Introduction
 March 30 - Huffman Coding
 
 - Huffman Coding - Ch 16 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b1c8d50-2efe-45bd-abd0-ab8e0047b241) - [Slides](lectures/l17_greedyHuffman.pdf) - [Marked-up Slides](lectures/l17_greedyHuffman_written.pdf)
+- Hott's 3/30 5 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/75JvI-7trntOfKvqwWHVdYozHJ7meaa8gykZrPpfzkyVStTVWt8tX7wVHGzgPx24) 
 
 
 April 1 - Belady Cache Replacement
