@@ -31,6 +31,7 @@ Lectures
 - April 1 - Belady Cache Replacement
     - Belady Cache Replacement - Ch 16 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=efcd7af9-f766-4bbd-b02c-ab8f016692f0) - [Slides](lectures/l18_greedyCache.pdf) - [Marked-up Slides](lectures/l18_greedyCache_written.pdf)
     - Horton's 4/1 3:30 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/9cdwL5DR1iRIQ9bvw2KOBYA_J7vFX6a8gyEZqPMMzUwwN_GV9lxxwpWsnaQMBBJ-): discussed Huffman encoding, how to approach HW6 P2 (starting at 00:15:38)
+    - Hott's 4/1 2 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/6NFYJrj22ntJG6uKt0yHe7wOPKjheaa8h3RK_fQIzE_Ahis93mskNEXeZcBXwA3g): discussed similar problems to the homework
 
 
 ## Course Organization
