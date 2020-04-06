@@ -47,10 +47,11 @@ April 1 - Belady Cache Replacement
 ## Graph Algorithms
 
 April 6 - Graph Introductions
-
 - Graph Review - Ch 23
 - Minimum Spanning Trees - Ch 23
-
+- Lecture, April 6 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1a2aa3a-415f-4885-8553-ab9501012ddf) - [Slides](lectures/l19_MST.pdf) 
+- Horton's 4/6 3:30 pm class discussion in Zoom [Video]()
+- Hott's 3/30 5 pm class discussion in Zoom [Video]() 
 
 April 8 - Shortest Paths
 
