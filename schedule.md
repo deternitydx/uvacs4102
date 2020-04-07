@@ -51,7 +51,7 @@ April 6 - Graph Introductions
 - Minimum Spanning Trees - Ch 23
 - Lecture, April 6 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1a2aa3a-415f-4885-8553-ab9501012ddf) - [Slides](lectures/l19_MST.pdf) 
 - Horton's 4/6 3:30 pm class discussion in Zoom [Video]()
-- Hott's 3/30 5 pm class discussion in Zoom [Video]() 
+- Hott's 4/6 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/9d5qMLP8-FFIXK_kxWKFW5QzFdv3T6a8gSVKrPIExU7aeGlnHPlh5xZCb8mtPeHx)
 
 April 8 - Shortest Paths
 
