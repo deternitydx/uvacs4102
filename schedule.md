@@ -50,11 +50,12 @@ April 6 - Graph Introductions
 - Graph Review - Ch 23
 - Minimum Spanning Trees - Ch 23
 - Lecture, April 6 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1a2aa3a-415f-4885-8553-ab9501012ddf) - [Slides](lectures/l19_MST.pdf) 
-- Horton's 4/6 3:30 pm class discussion in Zoom [Video]()
+- Horton's 4/6 3:30 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/4_xncI3Cq1hOQ6vd1BrbBYMBJ4j1X6a81CMd-vRYykqxaSmyO6P6FCRZtN1Nne5Y)
 - Hott's 4/6 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/9d5qMLP8-FFIXK_kxWKFW5QzFdv3T6a8gSVKrPIExU7aeGlnHPlh5xZCb8mtPeHx)
 
 April 8 - Shortest Paths
-
+- Lecture, April 8 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5916ec0-e4a5-43b4-9ffc-ab9701560b57) - [Slides](lectures/l20_SP.pdf) 
+- Horton's 4/8 3:30 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/yYspF6n_y2dObZGcyXv6dbUNHYrOeaa8gXUf__MNyBl1Rr56pXML3J-KiN1yG-iT)
 - Dijkstra's Algorithm - Ch 24
 - Bellman-Ford - Ch 24
 - Floyd-Warshall
