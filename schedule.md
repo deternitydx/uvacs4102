@@ -58,6 +58,7 @@ April 8 - Shortest Paths
 - Dijkstra's Algorithm - Ch 24
 - Bellman-Ford - Ch 24
 - Floyd-Warshall
+- Hott's 4/8 2 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/yPFXLojX1HtIZs_W1X_uBrZ6Tq36eaa81SMWqaUMmE_S6jfpkIwxHV9-Hjwib-XM ): discussed shortest path algorithms and proof of Dijkstra's algorithm
 
 April 13 - Max Flow
 
