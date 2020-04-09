@@ -64,7 +64,7 @@ April 8 - Shortest Paths
 
 April 13 - Max Flow
 
-- Max Flow / Min Cut - Ch 26
+- Max Flow / Min Cut - Ch 26 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bccacb60-d638-4523-b402-ab98017cdb2c) - [Slides](lectures/l22_maxflow.pdf) - [Marked-up Slides](lectures/l22_maxflow_written.pdf)
 
 ## Reductions
 
