@@ -54,12 +54,13 @@ April 6 - Graph Introductions
 - Hott's 4/6 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/9d5qMLP8-FFIXK_kxWKFW5QzFdv3T6a8gSVKrPIExU7aeGlnHPlh5xZCb8mtPeHx)
 
 April 8 - Shortest Paths
-- Lecture, April 8 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5916ec0-e4a5-43b4-9ffc-ab9701560b57) - [Slides](lectures/l20_SP.pdf) 
-- Horton's 4/8 3:30 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/yYspF6n_y2dObZGcyXv6dbUNHYrOeaa8gXUf__MNyBl1Rr56pXML3J-KiN1yG-iT)
 - Dijkstra's Algorithm - Ch 24
-- Bellman-Ford - Ch 24
-- Floyd-Warshall
+- Lecture, April 8 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5916ec0-e4a5-43b4-9ffc-ab9701560b57) - [Slides](lectures/l20_SP.pdf) 
 - Hott's 4/8 2 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/yPFXLojX1HtIZs_W1X_uBrZ6Tq36eaa81SMWqaUMmE_S6jfpkIwxHV9-Hjwib-XM): discussed shortest path algorithms and proof of Dijkstra's algorithm
+- Horton's 4/8 3:30 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/yYspF6n_y2dObZGcyXv6dbUNHYrOeaa8gXUf__MNyBl1Rr56pXML3J-KiN1yG-iT)
+
+April 8 - Shortest Paths
+- Bellman-Ford and Floyd-Warshall - Ch 24 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3031eb9-c1df-47cb-af97-ab9801125977) - [Slides](lectures/l21_BellmanFord.pdf) - [Marked-up Slides](lectures/l21_BellmanFord_written.pdf) 
 
 April 13 - Max Flow
 
