@@ -70,8 +70,7 @@ April 13 - Max Flow
 
 April 15 - Introduction
 
-- Reductions Introduction - Ch 34
-- Bipartite Matching
+- Reductions and Bipartite Matching - Ch 34 - Video (processing) - [Slides](lectures/l23_Bipartite_Reductions.pdf) - [Marked-up Slides](lectures/l23_Bipartite_Reductions_written.pdf)
 
 April 20 - Additional Reductions
 
