@@ -65,12 +65,13 @@ April 8 - Shortest Paths
 April 13 - Max Flow
 
 - Max Flow / Min Cut - Ch 26 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bccacb60-d638-4523-b402-ab98017cdb2c) - [Slides](lectures/l22_maxflow.pdf) - [Marked-up Slides](lectures/l22_maxflow_written.pdf)
+- Hott's 4/13 5 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/75JvI-7trntOfKvqwWHVdYozHJ7meaa8gykZrPpfzkyVStTVWt8tX7wVHGzgPx24) 
 
 ## Reductions
 
 April 15 - Introduction
 
-- Reductions and Bipartite Matching - Ch 34 - Video (processing) - [Slides](lectures/l23_Bipartite_Reductions.pdf) - [Marked-up Slides](lectures/l23_Bipartite_Reductions_written.pdf)
+- Reductions and Bipartite Matching - Ch 34 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c08b6dc-ffd4-4c80-9d1d-ab9c01858704) - [Slides](lectures/l23_Bipartite_Reductions.pdf) - [Marked-up Slides](lectures/l23_Bipartite_Reductions_written.pdf)
 
 April 20 - Additional Reductions
 
