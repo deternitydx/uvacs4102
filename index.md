@@ -32,9 +32,11 @@ Lectures
     - Bellman-Ford and Floyd-Warshall - Ch 24 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3031eb9-c1df-47cb-af97-ab9801125977) - [Slides](lectures/l21_BellmanFord.pdf) - [Marked-up Slides](lectures/l21_BellmanFord_written.pdf) 
 - April 13 - Max Flow
     - Max Flow / Min Cut - Ch 26 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bccacb60-d638-4523-b402-ab98017cdb2c) - [Slides](lectures/l22_maxflow.pdf) - [Marked-up Slides](lectures/l22_maxflow_written.pdf)
-    - Hott's 4/13 5 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/z-5zAIPJ8ENIQ6v3wlnhBpUCJ9T9eaa8hiAZ_foEyU0eTVHM_ftiEcApGphjG1YB) 
 - April 15 - Reductions
     - Reductions and Bipartite Matching - Ch 34 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c08b6dc-ffd4-4c80-9d1d-ab9c01858704) - [Slides](lectures/l23_Bipartite_Reductions.pdf) - [Marked-up Slides](lectures/l23_Bipartite_Reductions_written.pdf)
+
+- *Q&A Sessions*: [View all Q&A videos](https://collab.its.virginia.edu/access/content/group/243b8e8c-7729-4a40-ac2f-e165f4ae6567/Zoom%20Q_A%20Sessions/)
+
 ## Course Organization
 
 [Schedule](schedule.html) - [Useful Topics Resources](resources.html) - [Useful Collaboration Resources](transition.html)

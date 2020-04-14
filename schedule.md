@@ -16,8 +16,8 @@ March 23 - Review and Gerrymandering
 - Longest Common Subsequence - [Horton's video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fdde7c3d-bad1-4afa-99a4-ab85011e9a24) - [Slides](lectures/horton/cs4102_L14-pt2_LCS_horton.pdf)
 - DP Review - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=15fec513-9015-4cae-882b-ab87014cc59b) - [Slides](lectures/l15-review.pdf) - [Written Notes](lectures/l15-review-written.pdf)
 - Gerrymandering - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b613684-720a-4167-a32e-ab7e016ea13f) - [Slides](lectures/l15-gerrymander.pdf) - Ch 16
-- Horton's 3/23 3:30 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/_c8qBazM83NJc43CzUDudbNmWanZaaa81nBN-PMEzE7Llmd8AG8j6_lHtNIn3qan) 
-- Hott's 3/23 5 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/4_NkI5fN6HlJQ4nt1njdZJAYFYP7X6a81nRK-6ZYxEpqk2Cq-V2iYHjyWuUYY67v) 
+- Horton's 3/23 3:30 pm class discussion in Zoom [Video](https://collab.its.virginia.edu/access/content/group/243b8e8c-7729-4a40-ac2f-e165f4ae6567/Zoom%20Q_A%20Sessions/) 
+- Hott's 3/23 5 pm class discussion in Zoom [Video](https://collab.its.virginia.edu/access/content/group/243b8e8c-7729-4a40-ac2f-e165f4ae6567/Zoom%20Q_A%20Sessions/) 
 
 ## Greedy Algorithms
 
@@ -25,22 +25,22 @@ March 25 - Greedy Algorithms Introduction
 
 - Greedy Introduction - Ch 16 [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a23a2c3e-0e7c-4d79-8ab4-ab8901322a65) - [Slides](lectures/horton/cs4102_L16_intro.pdf)
 - Interval Scheduling - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00506912-5118-45cf-8828-ab89002117bf) - [Slides](lectures/l16-interval-scheduling.pdf) - Ch 16
-- Hott's 3/25 2 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/x8hVCYvRylNLT6_xyXrAU6AoR5rpaaa8hCUb-PNexRwKZXhxJVMx6mmCEKJTR3lZ) 
-- Horton's 3/25 3:30 pm class discussion in Zoom [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=487f41a3-7d28-4d3e-a492-ab8901689505)
+- Hott's 3/25 2 pm class discussion in Zoom [Video](https://collab.its.virginia.edu/access/content/group/243b8e8c-7729-4a40-ac2f-e165f4ae6567/Zoom%20Q_A%20Sessions/) 
+- Horton's 3/25 3:30 pm class discussion in Zoom [Video](https://collab.its.virginia.edu/access/content/group/243b8e8c-7729-4a40-ac2f-e165f4ae6567/Zoom%20Q_A%20Sessions/)
 
 
 March 30 - Huffman Coding
 
 - Huffman Coding - Ch 16 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b1c8d50-2efe-45bd-abd0-ab8e0047b241) - [Slides](lectures/l17_greedyHuffman.pdf) - [Marked-up Slides](lectures/l17_greedyHuffman_written.pdf)
-- Hott's 3/30 5 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/75JvI-7trntOfKvqwWHVdYozHJ7meaa8gykZrPpfzkyVStTVWt8tX7wVHGzgPx24) 
-- Horton's 3/30 3:30 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/7-JtJJLM2FlORrPpw2Hgd4F4Jr_-eaa8hyAX8_YNxRwUS-7baRH9vUADrFDBTeLd): discussion of pseudo-polynomial time at 00:49:30; discussion of HW6 P1 at 01:02:08.
+- Hott's 3/30 5 pm class discussion in Zoom [Video](https://collab.its.virginia.edu/access/content/group/243b8e8c-7729-4a40-ac2f-e165f4ae6567/Zoom%20Q_A%20Sessions/) 
+- Horton's 3/30 3:30 pm class discussion in Zoom [Video](https://collab.its.virginia.edu/access/content/group/243b8e8c-7729-4a40-ac2f-e165f4ae6567/Zoom%20Q_A%20Sessions/): discussion of pseudo-polynomial time at 00:49:30; discussion of HW6 P1 at 01:02:08.
 
 
 April 1 - Belady Cache Replacement
 
 - Belady Cache Replacement - Ch 16 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=efcd7af9-f766-4bbd-b02c-ab8f016692f0) - [Slides](lectures/l18_greedyCache.pdf) - [Marked-up Slides](lectures/l18_greedyCache_written.pdf)
-- Horton's 4/1 3:30 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/9cdwL5DR1iRIQ9bvw2KOBYA_J7vFX6a8gyEZqPMMzUwwN_GV9lxxwpWsnaQMBBJ-): discussed Huffman encoding, how to approach HW6 P2 (starting at 00:15:38)
-- Hott's 4/1 2 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/6NFYJrj22ntJG6uKt0yHe7wOPKjheaa8h3RK_fQIzE_Ahis93mskNEXeZcBXwA3g): discussed similar problems to the homework
+- Horton's 4/1 3:30 pm class discussion in Zoom [Video](https://collab.its.virginia.edu/access/content/group/243b8e8c-7729-4a40-ac2f-e165f4ae6567/Zoom%20Q_A%20Sessions/): discussed Huffman encoding, how to approach HW6 P2 (starting at 00:15:38)
+- Hott's 4/1 2 pm class discussion in Zoom [Video](https://collab.its.virginia.edu/access/content/group/243b8e8c-7729-4a40-ac2f-e165f4ae6567/Zoom%20Q_A%20Sessions/): discussed similar problems to the homework
 
 
 
@@ -50,22 +50,22 @@ April 6 - Graph Introductions
 - Graph Review - Ch 23
 - Minimum Spanning Trees - Ch 23
 - Lecture, April 6 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1a2aa3a-415f-4885-8553-ab9501012ddf) - [Slides](lectures/l19_MST.pdf) 
-- Horton's 4/6 3:30 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/4_xncI3Cq1hOQ6vd1BrbBYMBJ4j1X6a81CMd-vRYykqxaSmyO6P6FCRZtN1Nne5Y)
-- Hott's 4/6 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/9d5qMLP8-FFIXK_kxWKFW5QzFdv3T6a8gSVKrPIExU7aeGlnHPlh5xZCb8mtPeHx)
+- Horton's 4/6 3:30 pm class discussion in Zoom [Video](https://collab.its.virginia.edu/access/content/group/243b8e8c-7729-4a40-ac2f-e165f4ae6567/Zoom%20Q_A%20Sessions/)
+- Hott's 4/6 pm class discussion in Zoom [Video](https://collab.its.virginia.edu/access/content/group/243b8e8c-7729-4a40-ac2f-e165f4ae6567/Zoom%20Q_A%20Sessions/)
 
 April 8 - Shortest Paths
 - Dijkstra's Algorithm - Ch 24
 - Lecture, April 8 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5916ec0-e4a5-43b4-9ffc-ab9701560b57) - [Slides](lectures/l20_SP.pdf) 
-- Hott's 4/8 2 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/yPFXLojX1HtIZs_W1X_uBrZ6Tq36eaa81SMWqaUMmE_S6jfpkIwxHV9-Hjwib-XM): discussed shortest path algorithms and proof of Dijkstra's algorithm
-- Horton's 4/8 3:30 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/yYspF6n_y2dObZGcyXv6dbUNHYrOeaa8gXUf__MNyBl1Rr56pXML3J-KiN1yG-iT)
+- Hott's 4/8 2 pm class discussion in Zoom [Video](https://collab.its.virginia.edu/access/content/group/243b8e8c-7729-4a40-ac2f-e165f4ae6567/Zoom%20Q_A%20Sessions/): discussed shortest path algorithms and proof of Dijkstra's algorithm
+- Horton's 4/8 3:30 pm class discussion in Zoom [Video](https://collab.its.virginia.edu/access/content/group/243b8e8c-7729-4a40-ac2f-e165f4ae6567/Zoom%20Q_A%20Sessions/)
 
-April 8 - Shortest Paths
+April 10 - Shortest Paths
 - Bellman-Ford and Floyd-Warshall - Ch 24 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3031eb9-c1df-47cb-af97-ab9801125977) - [Slides](lectures/l21_BellmanFord.pdf) - [Marked-up Slides](lectures/l21_BellmanFord_written.pdf) 
 
 April 13 - Max Flow
 
 - Max Flow / Min Cut - Ch 26 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bccacb60-d638-4523-b402-ab98017cdb2c) - [Slides](lectures/l22_maxflow.pdf) - [Marked-up Slides](lectures/l22_maxflow_written.pdf)
-- Hott's 4/13 5 pm class discussion in Zoom [Video](https://virginia.zoom.us/rec/share/z-5zAIPJ8ENIQ6v3wlnhBpUCJ9T9eaa8hiAZ_foEyU0eTVHM_ftiEcApGphjG1YB) 
+- Hott's 4/13 5 pm class discussion in Zoom [Video](https://collab.its.virginia.edu/access/content/group/243b8e8c-7729-4a40-ac2f-e165f4ae6567/Zoom%20Q_A%20Sessions/) 
 
 ## Reductions
 
