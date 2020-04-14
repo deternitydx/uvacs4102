@@ -23,8 +23,8 @@ between problems
 
 Assignments
 
-- Homework 6 due Monday 4/6 at 11pm 
-- Homework 7 due Sunday 4/12 at 11pm 
+- Homework 8 due Sunday 4/19 at 11pm EDT 
+- Homework 9 due Sunday 4/26 at 11pm EDT
 
 Lectures
 
