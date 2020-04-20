@@ -77,7 +77,7 @@ April 20 - Additional Reductions, Intro to NP-Completeness
 
 - [Slides for both parts](lectures/L24.pdf)
 - Part 1: Reductions, Lower Bounds - Ch 34 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4d36522-a9dc-402a-ab78-aba3010b5ac8)
-- Part 2: Intro to NP-Completeness etc - Ch 34 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8c96a97-dd76-44a2-812d-aba30116f141)- Reductions
+- Part 2: Intro to NP-Completeness etc - Ch 34 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8c96a97-dd76-44a2-812d-aba30116f141)
 
 
 ## NP-Completeness
