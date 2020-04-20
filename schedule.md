@@ -73,11 +73,16 @@ April 15 - Introduction
 
 - Reductions and Bipartite Matching - Ch 34 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c08b6dc-ffd4-4c80-9d1d-ab9c01858704) - [Slides](lectures/l23_Bipartite_Reductions.pdf) - [Marked-up Slides](lectures/l23_Bipartite_Reductions_written.pdf)
 
-April 20 - Additional Reductions
+April 20 - Additional Reductions, Intro to NP-Completeness
 
-- Reductions
+- [Slides for both parts](lectures/L24.pdf)
+- Part 1: Reductions, Lower Bounds - Ch 34 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4d36522-a9dc-402a-ab78-aba3010b5ac8)
+- Part 2: Intro to NP-Completeness etc - Ch 34 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8c96a97-dd76-44a2-812d-aba30116f141)- Reductions
+
 
 ## NP-Completeness
+
+
 
 April 22 - NP-Completeness
 

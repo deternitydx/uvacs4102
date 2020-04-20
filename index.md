@@ -19,23 +19,19 @@ between problems
 ## This Week
 
 
-
-
 Assignments
 
-- Homework 8 due Sunday 4/19 at 11pm EDT 
-- Homework 9 due Sunday 4/26 at 11pm EDT
+- Homework 8 due Monday 4/20 at 11pm EDT 
+- Homework 9 due Monday 4/27 at 11pm EDT
+
 
 Lectures
 
-- April 10 - Shortest Paths
-    - Bellman-Ford and Floyd-Warshall - Ch 24 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3031eb9-c1df-47cb-af97-ab9801125977) - [Slides](lectures/l21_BellmanFord.pdf) - [Marked-up Slides](lectures/l21_BellmanFord_written.pdf) 
-- April 13 - Max Flow
-    - Max Flow / Min Cut - Ch 26 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bccacb60-d638-4523-b402-ab98017cdb2c) - [Slides](lectures/l22_maxflow.pdf) - [Marked-up Slides](lectures/l22_maxflow_written.pdf)
-- April 15 - Reductions
-    - Reductions and Bipartite Matching - Ch 34 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c08b6dc-ffd4-4c80-9d1d-ab9c01858704) - [Slides](lectures/l23_Bipartite_Reductions.pdf) - [Marked-up Slides](lectures/l23_Bipartite_Reductions_written.pdf)
+- April 20 - Reductions, NP-Completeness [Slides for both parts](lectures/L24.pdf)
+    - Part 1: Reductions, Lower Bounds - Ch 34 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4d36522-a9dc-402a-ab78-aba3010b5ac8)
+    - Part 2: Intro to NP-Completeness etc - Ch 34 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8c96a97-dd76-44a2-812d-aba30116f141)
 
-- *Q&A Sessions*: [View all Q&A videos](https://collab.its.virginia.edu/access/content/group/243b8e8c-7729-4a40-ac2f-e165f4ae6567/Zoom%20Q_A%20Sessions/)
+
 
 ## Course Organization
 
