@@ -31,6 +31,9 @@ Lectures
     - Part 1: Reductions, Lower Bounds - Ch 34 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4d36522-a9dc-402a-ab78-aba3010b5ac8)
     - Part 2: Intro to NP-Completeness etc - Ch 34 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8c96a97-dd76-44a2-812d-aba30116f141)
 
+- April 22 - NP-Completeness [Slides for both parts](lectures/L25.pdf)
+    - Part 1: NP-Completeness [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b925065-7961-4ebf-869d-aba500f98f03)
+    - Part 2: Coming soon!
 
 
 ## Course Organization

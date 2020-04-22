@@ -82,11 +82,13 @@ April 20 - Additional Reductions, Intro to NP-Completeness
 
 ## NP-Completeness
 
-
-
 April 22 - NP-Completeness
 
-- NP-Completeness
+- NP-Completeness [Slides for both parts](lectures/L25.pdf)
+- Part 1: NP-Completeness [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b925065-7961-4ebf-869d-aba500f98f03)
+- Part 2: Coming soon!
+
+
 
 # In-Person Schedule
 
