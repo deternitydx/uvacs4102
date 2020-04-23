@@ -84,7 +84,7 @@ April 20 - Additional Reductions, Intro to NP-Completeness
 
 April 22 - NP-Completeness
 
-- NP-Completeness [Slides for both parts, updated on 4/22 3pm](lectures/L25.pdf)
+- NP-Completeness [Slides for both parts, updated on 4/23 11 am, slides 16 and 55](lectures/L25.pdf)
 - Part 1: NP-Completeness [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b925065-7961-4ebf-869d-aba500f98f03)
 - Part 2: Proving NP-Completeness with reductions, Wrap-up on NP-C  [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca495d6b-dc00-45be-9a39-aba501366fc1)
 
