@@ -76,8 +76,8 @@ During the normal class meeting times, the professors will use a Zoom meeting to
 
 
 ### Regrades
-We are still considering the best way to handle regrade requests, and we will restart them by Friday 3/27/2020.
+Regrades are handled in person on Zoom Friday afternoons.  For coding question regrades, email Professor Hott to schedule an appointment.
 
 ## Grade Calculator
 
-[Calculator](algo-calculator.xlsx) - This spreadsheet provides a way to easily calculate your final course grade.  It should only be used as a guide, and it requires a value for each entry to calculate.  To use it, enter your current grades and then extrapolate the rest of the semester, entering expected grades for future homeworks and the final exam.  Don't forget that Extra Credit is above and beyond the final grade shown on the spreadsheet. _Note that we are in the process of examining how we do things in CS4102 for the rest of the term, and this may affect homework and grading. We will update you and this tool as soon as possible if we adjust the course.  Keep this in mind as you consider your grade situation._
+[Calculator](algo-calculator.xlsx) - This spreadsheet provides a way to easily calculate your final course grade.  It should only be used as a guide, and it requires a value for each entry to calculate.  To use it, enter your current grades and then extrapolate the rest of the semester, entering expected grades for future homeworks and the final exam.  Don't forget that Extra Credit is above and beyond the final grade shown on the spreadsheet.
