@@ -21,19 +21,14 @@ between problems
 
 Assignments
 
-- Homework 8 due Monday 4/20 at 11pm EDT 
 - Homework 9 due Monday 4/27 at 11pm EDT
-
 
 Lectures
 
-- April 20 - Reductions, NP-Completeness [Slides for both parts, updated 4/22 4pm](lectures/L24.pdf)
-    - Part 1: Reductions, Lower Bounds - Ch 34 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4d36522-a9dc-402a-ab78-aba3010b5ac8)
-    - Part 2: Intro to NP-Completeness etc - Ch 34 - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8c96a97-dd76-44a2-812d-aba30116f141)
-
-- April 22 - NP-Completeness [Slides for both parts, updated on 4/23 11am, slides 16 and 55](lectures/L25.pdf)
-    - Part 1: NP-Completeness [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b925065-7961-4ebf-869d-aba500f98f03)
-    - Part 2: Proving NP-Completeness with reductions, Wrap-up on NP-C  [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca495d6b-dc00-45be-9a39-aba501366fc1)
+- *April 27 - Join us for a _live_ course finale*
+    - Hott's 2pm: [https://virginia.zoom.us/j/99430132595](https://virginia.zoom.us/j/99430132595)
+    - Horton's 3:30pm: [https://virginia.zoom.us/j/765750708](https://virginia.zoom.us/j/765750708)
+    - Hott's 5pm: [https://virginia.zoom.us/j/328609633](https://virginia.zoom.us/j/328609633)
 
 ## Course Organization
 

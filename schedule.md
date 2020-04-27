@@ -88,6 +88,13 @@ April 22 - NP-Completeness
 - Part 1: NP-Completeness [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1b925065-7961-4ebf-869d-aba500f98f03)
 - Part 2: Proving NP-Completeness with reductions, Wrap-up on NP-C  [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ca495d6b-dc00-45be-9a39-aba501366fc1)
 
+## Finale 
+
+April 27 - Join us for a _live_ course finale
+
+- Hott's 2pm: [https://virginia.zoom.us/j/99430132595](https://virginia.zoom.us/j/99430132595)
+- Horton's 3:30pm: [https://virginia.zoom.us/j/765750708](https://virginia.zoom.us/j/765750708)
+- Hott's 5pm: [https://virginia.zoom.us/j/328609633](https://virginia.zoom.us/j/328609633)
 
 
 # In-Person Schedule
