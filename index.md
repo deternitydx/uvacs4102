@@ -28,7 +28,10 @@ Lectures
 - *April 27 - Join us for a _live_ course finale*
     - Hott's 2pm: [https://virginia.zoom.us/j/99430132595](https://virginia.zoom.us/j/99430132595)
     - Horton's 3:30pm: [https://virginia.zoom.us/j/765750708](https://virginia.zoom.us/j/765750708)
+        - [Slides with markup](lectures/horton/finale_horton.pdf)
+        - [Video](https://virginia.zoom.us/rec/share/oshVcr3a0kNIS6-U40TgW_J5N53EX6a8hnVIrqUKmh4Zsq473jan-PtiVjUqkRB_ Password: 4I!0.x2#). Due to error, only recorded final 10 minutes, "wrap up" of course. Apologies!
     - Hott's 5pm: [https://virginia.zoom.us/j/328609633](https://virginia.zoom.us/j/328609633)
+
 
 ## Course Organization
 
