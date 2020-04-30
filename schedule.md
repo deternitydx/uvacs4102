@@ -92,11 +92,15 @@ April 22 - NP-Completeness
 
 April 27 - Join us for a _live_ course finale
 
-- Hott's 2pm: [https://virginia.zoom.us/j/99430132595](https://virginia.zoom.us/j/99430132595)
-- Horton's 3:30pm: [https://virginia.zoom.us/j/765750708](https://virginia.zoom.us/j/765750708)
+- Hott's 2pm
+    - [Slides](lectures/robbie/finale.pdf)
+    - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3b845ef-a30a-4739-80c2-abab0119e96b) - must open Lecture Capture first!
+- Horton's 3:30pm
     - [Slides with markup](lectures/horton/finale_horton.pdf)
     - [Video](https://virginia.zoom.us/rec/share/oshVcr3a0kNIS6-U40TgW_J5N53EX6a8hnVIrqUKmh4Zsq473jan-PtiVjUqkRB_ Password: 4I!0.x2#). Due to error, only recorded final 10 minutes, "wrap up" of course. Apologies! Dang, I even wore a nice shirt for the last class too. :-(
-- Hott's 5pm: [https://virginia.zoom.us/j/328609633](https://virginia.zoom.us/j/328609633)
+- Hott's 5pm
+    - [Slides](lectures/robbie/finale.pdf)
+    - [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b0ed4cf5-08ff-481a-8f9c-abab0119e87b) - must open Lecture Capture first!
 
 
 # In-Person Schedule

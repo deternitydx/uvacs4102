@@ -19,19 +19,16 @@ between problems
 ## This Week
 
 
-Assignments
+Exam Review
+    - Wednesday Review Session: [Video](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c3d00895-16ef-4589-8d3a-abad0056d160) - must open Lecture Capture first!
+    - Thursday Review Session: 4pm 
 
-- Homework 9 due Monday 4/27 at 11pm EDT
-
-Lectures
-
-- *April 27 - Join us for a _live_ course finale*
-    - Hott's 2pm: [https://virginia.zoom.us/j/99430132595](https://virginia.zoom.us/j/99430132595)
-    - Horton's 3:30pm: [https://virginia.zoom.us/j/765750708](https://virginia.zoom.us/j/765750708)
-        - [Slides with markup](lectures/horton/finale_horton.pdf)
-        - [Video](https://virginia.zoom.us/rec/share/oshVcr3a0kNIS6-U40TgW_J5N53EX6a8hnVIrqUKmh4Zsq473jan-PtiVjUqkRB_?startTime=1588015804000). Due to error, only recorded final 10 minutes, "wrap up" of course. Apologies! Dang, I even wore a nice shirt for the last class too. :-(
-    - Hott's 5pm: [https://virginia.zoom.us/j/328609633](https://virginia.zoom.us/j/328609633)
-
+Exam Information
+    - Timed, 2 hours to complete once started
+    - Start between 6pm EDT Thursday, Apr 30, and 1pm EDT Sunday, May 3
+    - Take on Collab under "Tests and Quizzes"
+    - Open book, open notes, but closed internet, no collaboration
+    - See [This Document](https://docs.google.com/document/d/18D3u7nNxwL005TwlvrQm8ivj9bhKNslSwRXEgsI9EdY/edit?usp=sharing) for more details
 
 ## Course Organization
 
