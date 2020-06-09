@@ -19,6 +19,7 @@ Discrete Math
     - [Proof Techiques](https://en.wikipedia.org/wiki/Mathematical_proof)
     - [Discrete Math](https://en.wikipedia.org/wiki/Discrete_mathematics)
     - [Some Proofs on Wikipedia](https://en.wikipedia.org/wiki/List_of_mathematical_proofs)
+- [Cusack, et al, An Active Introduction toDiscrete Mathematics and Algorithms](https://cusack.hope.edu/Notes/Notes/Books/AIDMA/AIDMA.2.7.1.pdf)
 
 Algorithms
 - [CLRS, Introduction to Algorithms](https://search.lib.virginia.edu/catalog/u6757775)
